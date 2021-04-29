@@ -1,4 +1,4 @@
-# Daicussion: https://daicussion.com
+# [Daicussion](https://daicussion.com):
 
 Based off of Ben Awad's "Fullstack React GraphQL TypeScript Tutorial"
 
