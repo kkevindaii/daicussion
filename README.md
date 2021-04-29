@@ -17,3 +17,9 @@ Daicussion can be broken down into 2 main components - Frontend and Backend.
 ## Frontend
 
 ...
+
+
+# Upcoming Features
+* Delete Account
+* Commentting
+* Reclicking on vote remove vote
