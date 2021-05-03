@@ -12,7 +12,7 @@ Daicussion can be broken down into 2 main components - Frontend and Backend.
 
 ## Backend
 
-The backend utilizes Apollo (Graphql), express (REST), Redis for caching, TypeORM, and Postgresql. Typescript/NodeJS was the main language choice used here.
+The backend utilizes Apollo (Graphql), express (REST), Redis for caching, Postgresql, and TypeORM. Typescript/NodeJS was the main language choice used here.
 Apollo and express work in conjuction to make requests to the client and as well as receive data from the client. 
 Postgresql is the main database that currently only stores the only items on the site (Posts and Users). 
 Typeorm is utilized to run migrations to keep the database updated while the server is running. 
