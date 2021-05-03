@@ -4,7 +4,7 @@ Based off of Ben Awad's "Fullstack React GraphQL TypeScript Tutorial"
 
 # What is Daicussion
 
-Daicussion is a simple reddit clone that features login, register, creating/updating/deleting a post, and many more to come. Daicussion is currently fully developed by kkevindaii (both backend and frontend).
+Daicussion is a simple reddit clone that features login, register, forget password, creating/updating/deleting a post, and many more to come. Daicussion is currently fully developed by kkevindaii (both backend and frontend).
 
 # How Daicussion works
 
