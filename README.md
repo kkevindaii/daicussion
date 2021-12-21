@@ -30,6 +30,12 @@ Chakra + React handles the HTML and CSS parts of the website and Urql handles ex
 
 The Frontend is hosted on Vercel.
 
+## How to Run locally
+
+To run the project locally, use a idle such as VS Code and access the lireddit-server and the lireddit-web folder through terminal. From there use the command "yarn dev" on both the lireddit-server and lireddit-web terminals. There you should see that localhost:3000 is being used to host the server and all features can be explored (creating posts, users, upvotes, etc.) from there.
+
+SCREENSHOTS
+
 
 # Future Features
 * Delete Account
