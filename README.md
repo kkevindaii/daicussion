@@ -3,6 +3,7 @@
 Based off of Ben Awad's "Fullstack React GraphQL TypeScript Tutorial"
 
 *UPDATE: Currently Daicussion is not being hosted on any platform, but can be hosted locally.
+![alt text](https://github.com/kkevindaii/daicussion/readme_imgs/Capture3.jpg?raw=true)
 
 # What is Daicussion
 
