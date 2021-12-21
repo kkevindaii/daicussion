@@ -36,10 +36,10 @@ The Frontend is hosted on Vercel.
 
 To run the project locally, use a idle such as VS Code and access the lireddit-server and the lireddit-web folder through terminal. From there use the command "yarn dev" on first the lireddit-server terminal then the lireddit-web terminal. There you should see that localhost:3000 is being used to host the server and all features can be explored (creating posts, users, upvotes, etc.) from there.
 
-# Running via lireddit-server
+### Running via lireddit-server
 ![](https://github.com/kkevindaii/daicussion/blob/main/readme_imgs/Capture2.JPG?raw=true)
 
-# Running via lireddit-web
+### Running via lireddit-web
 ![](https://github.com/kkevindaii/daicussion/blob/main/readme_imgs/Capture.JPG?raw=true)
 
 
